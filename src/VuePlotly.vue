@@ -4,7 +4,7 @@
 
 <script>
 import { v4 as uuidv4 } from "uuid";
-import Plotly from "plotly.js-dist";
+import Plotly from "plotly.js-basic-dist";
 import events from "./events";
 
 let timeOutFunctionId;
